@@ -6,7 +6,7 @@
 
 下载地址 [https://github.com/cjhdevact/FlyEduDownloader/releases](https://github.com/cjhdevact/FlyEduDownloader/releases)
 
-问题反馈  [这里](https://github.com/cjhdevact/FlyEduDownloader/issues)
+问题反馈  [这里](https://cjhdevact.github.io/otherprojects/FlyEduDownloader/feedback.html)
 
 程序主页 [https://cjhdevact.github.io/otherprojects/FlyEduDownloader/index.html](https://cjhdevact.github.io/otherprojects/FlyEduDownloader/index.html)
 
